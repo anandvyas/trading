@@ -1,0 +1,14 @@
+$TTL 2d
+ 
+$ORIGIN grandzero.io.
+ 
+@      IN  SOA home.com. ns.home.com. (
+             2022052603  ; serial
+             12h     ; refresh
+             15m     ; retry
+             3w      ; expire
+             2h )     ; minimum TTL
+;
+@ IN NS ns.home.com.
+ns IN A 192.168.8.146
+home.com. IN A 192.168.8.146
