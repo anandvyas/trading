@@ -1,0 +1,9 @@
+numpy
+pandas
+pandas-ta
+python-dotenv
+
+pyotp
+pyppeteer
+
+fyers-apiv3

@@ -1,0 +1,1090 @@
+Browser listening on: ws://127.0.0.1:53465/devtools/browser/8fd2d7ab-f9b6-4934-b566-4f55c4cdc6d9
+terminate chrome process...
+Browser listening on: ws://127.0.0.1:43847/devtools/browser/c4b9545d-3e0d-40f5-8370-0bbc8472b0fc
+terminate chrome process...
+error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f9212aeeca0>: 'FyersSocket' object has no attribute '_FyersSocket__on_close'
+error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f6861288dc0>: 'FyersSocket' object has no attribute '_FyersSocket__on_close'
+error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f842b604dc0>: 'FyersSocket' object has no attribute '_FyersSocket__on_close'
+error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f7e01079e50>: 'FyersSocket' object has no attribute '_FyersSocket__on_close'
+error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f84849a0e50>: 'FyersSocket' object has no attribute '_FyersSocket__on_close'
+error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f1cd3b15040>: 'FyersSocket' object has no attribute '_FyersSocket__on_close'
+Good Morning !!!
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:'NSE:NIFTYBANK-INDEX'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:'BANKNIFTY'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:'BANKNIFTY'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:'BANKNIFTY'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:Expecting value: line 1 column 1 (char 0)
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:NSE:BANKNIFTY2281138200CE,NSE:BANKNIFTY2281138200PE,NSE:BANKNIFTY2281838200CE,NSE:BANKNIFTY2281838200PE,NSE:BANKNIFTY2282538200CE,NSE:BANKNIFTY2282538200PE,NSE:BANKNIFTY2290138200CE,NSE:BANKNIFTY2290138200PE 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:NSE:BANKNIFTY2281138200CE,NSE:BANKNIFTY2281138200PE,NSE:BANKNIFTY2281838200CE,NSE:BANKNIFTY2281838200PE,NSE:BANKNIFTY2282538200CE,NSE:BANKNIFTY2282538200PE,NSE:BANKNIFTY2290138200CE,NSE:BANKNIFTY2290138200PE 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:Expecting value: line 1 column 1 (char 0)
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:Expecting value: line 1 column 1 (char 0)
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:Expecting value: line 1 column 1 (char 0)
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+ERROR:root:Expecting value: line 1 column 1 (char 0)
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.4 
+INFO:root:Strick price: 38200 
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:35175/devtools/browser/cc5d61e3-1b5a-4fbe-a346-4870a1a8b752
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38226.7 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38228.95 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38225.0 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38224.0 
+INFO:root:Strick price: 38200 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.35 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38217.2 
+INFO:root:Strick price: 38200 
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f8cd5154160>: 'FyersSocket' object has no attribute '_FyersSocket__on_close'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38197.9 
+INFO:root:Strick price: 38200 
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f663fdb6160>: 'FyersSocket' object has no attribute '_FyersSocket__on_close'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38201.35 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38203.3 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38181.7 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38235.2 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38222.05 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38232.05 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38225.9 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38237.45 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38273.05 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38262.55 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38275.25 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38284.5 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38292.95 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38297.15 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38291.8 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38294.4 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38325.2 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38349.25 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38361.55 
+INFO:root:Strick price: 38400 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38353.0 
+INFO:root:Strick price: 38400 
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f2156209040>: _strategy() takes 1 positional argument but 2 were given
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38361.95 
+INFO:root:Strick price: 38400 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38371.35 
+INFO:root:Strick price: 38400 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38341.05 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38316.1 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38335.95 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38318.4 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38327.5 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38352.95 
+INFO:root:Strick price: 38400 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38347.1 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38313.4 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38335.8 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38332.0 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38321.1 
+ERROR:root:type object 'datetime.date' has no attribute 'datetime'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38317.15 
+ERROR:root:type object 'datetime.date' has no attribute 'datetime'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38314.4 
+ERROR:root:type object 'datetime.date' has no attribute 'datetime'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38318.5 
+ERROR:root:type object 'datetime.date' has no attribute 'datetime'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38320.8 
+ERROR:root:type object 'datetime.date' has no attribute 'datetime'
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38317.7 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38320.05 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38323.65 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38325.15 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38321.65 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38317.4 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38225.95 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38263.65 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38258.65 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38255.55 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38265.3 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38260.4 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38252.3 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38245.5 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38256.6 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38265.4 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38262.45 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38270.05 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38240.65 
+INFO:root:Strick price: 38200 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38284.75 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38287.85 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38287.85 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38287.85 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38287.85 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTYBANK-INDEX 
+INFO:root:Get option strick of NSE:NIFTYBANK-INDEX of 38287.85 
+INFO:root:Strick price: 38300 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY-INDEX 
+INFO:root:Get option strick of NSE:NIFTY-INDEX of 'd' 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17534.75 
+INFO:root:Strick price: 17550 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17534.75 
+INFO:root:Strick price: 17550 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17534.75 
+INFO:root:Strick price: 17550 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17534.75 
+INFO:root:Strick price: 17550 
+INFO:root:Good Morning !!! 
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:38109/devtools/browser/6460e7a0-df9e-45d9-a13f-f8b7d0beca29
+INFO:pyppeteer.launcher:terminate chrome process...
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17685.1 
+INFO:root:Strick price: 17700 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17679.95 
+INFO:root:Strick price: 17700 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17674.8 
+INFO:root:Strick price: 17650 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17685.7 
+INFO:root:Strick price: 17700 
+INFO:root:Good Morning !!! 
+INFO:root:Get LTP of NSE:NIFTY50-INDEX 
+INFO:root:Get option strick of NSE:NIFTY50-INDEX of 17685.7 
+INFO:root:Strick price: 17700 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7fb8e2482310>: 'dict' object has no attribute 'symbol'
+INFO:root:Good Morning !!! 
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff0fb59e310>: 'dict' object has no attribute 'symbol'
+INFO:root:Good Morning !!! 
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f68d53e2310>: 'list' object has no attribute 'symbol'
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7f910ca95310>: 'dict' object has no attribute 'ltp'
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+ERROR:root:'dict' object has no attribute 'append'
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+ERROR:root:Object of type dict_keys is not JSON serializable
+INFO:root:Good Morning !!! 
+ERROR:root:Object of type dict_keys is not JSON serializable
+INFO:root:Good Morning !!! 
+ERROR:root:Object of type dict_keys is not JSON serializable
+INFO:root:Good Morning !!! 
+ERROR:root:'dict_keys' object has no attribute '__dict__'
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+ERROR:root:Object of type dict_keys is not JSON serializable
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+ERROR:websocket:error from callback <function FyersSocket.init_connection.<locals>.<lambda> at 0x7ff9ff387310>: 'dict' object has no attribute 'ltp'
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:root:Good Morning !!! 
+INFO:pyppeteer.launcher:Browser listening on: ws://127.0.0.1:54101/devtools/browser/456ca6b9-6f13-46f0-a2fe-7dc7947e77c1
+ERROR:root:Cannot find #fy_client_pwd on this page
+INFO:pyppeteer.launcher:terminate chrome process...

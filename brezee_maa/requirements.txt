@@ -1,0 +1,13 @@
+numpy
+pandas
+pandas-ta
+duckdb
+python-dotenv
+
+pyotp
+asyncio
+pyppeteer
+
+dhanhq
+breeze-connect
+fyers-apiv3

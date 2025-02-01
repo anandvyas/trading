@@ -1,0 +1,10 @@
+dhanhq
+websocket_client
+pyyaml
+pandas>=1.4.3
+requests
+jsonschema==4.10.0
+python-dotenv==0.20.0
+
+# Shoonya packages
+./library/NorenRestApiPy-0.0.22-py2.py3-none-any.whl

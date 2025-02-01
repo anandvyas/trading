@@ -1,0 +1,22 @@
+{
+    "brezee": {
+        "machine_name": "brezee",
+        "name": "Brezee",
+        "status": true
+    },
+    "dhanhq": {
+        "machine_name": "dhanhq",
+        "name": "Dhan HQ",
+        "status": true
+    },
+    "fyers": {
+        "machine_name": "fyers",
+        "name": "Fyers",
+        "status": true
+    },
+    "zerodha": {
+        "machine_name": "zerodha",
+        "name": "Zerodha",
+        "status": true
+    }
+}

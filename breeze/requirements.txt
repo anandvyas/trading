@@ -1,0 +1,8 @@
+breeze-connect
+numpy
+pandas
+pandas-ta
+python-dotenv
+influxdb-client
+tabulate
+pyppeteer

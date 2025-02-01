@@ -1,0 +1,50 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.venv/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS system files
+.DS_Store
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test results
+coverage/
+*.cover
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+.coverage.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# Flask or Django project
+instance/
+*.log
